@@ -1,0 +1,51 @@
+
+/* 
+section {
+    background: url('./bg.jpeg') no-repeat;
+    background-size: cover;
+    height: 850px;
+} */
+
+/* img{
+    height: 100px;
+    width: 150px;
+} */
+
+.input {
+    width: 600px;
+    margin: 5px 0px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+form {
+    /* background-color: black; */
+    /* height: 50px;
+    width: auto;
+    opacity: 0.7; */
+} 
+
+    .main h1{
+    font-size: 40px;
+    line-height: 48px;
+    color: rgb(255, 255, 255);
+    font-family: "PT Serif", serif;
+    font-weight:bold;
+    margin-top:  50px;
+    font-style: normal;
+    text-align: center;
+}
+
+.box {
+    position: absolute;
+    left: 400px;
+    top: 50px;
+    margin: auto;
+    height: auto;
+    width: 700px;
+}
+
+
+.main {
+    height: 92vh;
+}

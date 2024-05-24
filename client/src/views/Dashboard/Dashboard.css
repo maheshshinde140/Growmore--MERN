@@ -1,0 +1,61 @@
+
+.announcement-box{
+    margin: 10px auto;
+    border: none;
+    border: 2px solid rgb(0, 148, 254);
+    box-shadow: 1px 1px 5px  rgb(0, 148, 254);
+    padding: 20px;
+}
+body{
+    height: auto;
+}
+.announcement-box:hover{
+    border: 1.5px solid rgb(17, 178, 247);
+}
+.custom-border {
+
+    height: 70px;
+    padding: 0px 20px;
+    box-shadow: 1px 1px 5px ;
+}
+
+.custom-border:hover{
+    border: 2px solid rgb(17, 178, 247);
+
+}
+.ico{
+
+        transform: scale(1.3); /* Change the scale factor as per your preference */
+    
+        
+}
+
+.ico{
+    transition: transform 0.3s ease;
+}
+
+.answ{
+    color: rgb(20, 198, 20);
+}
+.grow-logo {
+    height: 150px;
+    padding:5px;
+    margin-top: 23px;
+    margin-bottom: 10px;
+}
+.grow-logos{
+    padding: 20px;
+    padding-left: 50px;
+    position: absolute;
+    margin-left: 200px;
+}
+.pop{
+    background: linear-gradient(174deg, rgb(197, 255, 215) 0%, rgba(255,255,255,1) 51%, rgb(255, 240, 196) 100%);
+    background-repeat: no-repeat;
+}
+
+@media (max-width:368px) {
+    grow-logos{
+        margin-bottom: 100px;
+    }
+}

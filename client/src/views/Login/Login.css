@@ -1,0 +1,10 @@
+.main{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+.form1{
+   width:500px;
+    height: 60%;
+    margin: 5%;
+}

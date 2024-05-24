@@ -1,0 +1,15 @@
+.btn:hover{
+        transform: scale(1.4); /* Change the scale factor as per your preference */
+    
+        
+}
+
+.btn{
+    transition: transform 0.3s ease;
+}
+.navi{
+background: transparent;
+} 
+body{
+    min-height: 110vh
+}
