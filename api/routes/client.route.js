@@ -1,7 +1,7 @@
 import express from 'express';
 import bcrypt from 'bcryptjs';
 import jwt from 'jsonwebtoken';
-import User from '../modules/user'; // Ensure this matches exactly with the actual file name
+import User from '../modules/user.js'; // Ensure this matches exactly with the actual file name
 
 const router = express.Router();
 
